@@ -12,12 +12,16 @@
 - https://fabricatorz.org/
 
 ## Demande
+Vous concevrez l’identité graphique du site web en veillant à être cohérent avec les valeurs du projet initial.
+
 Vous élaborerez un scénario complet :
 **page d'accueil › page catalogue › 1 page de font › download**
 
 Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, et démontrera fidèlement votre intention graphique et ergonomique.
 
 ## Livrables
+- Une identité graphique (direction artistique du projet web) et son argumentation
+- Style tiles
 - Un prototype Figma
 - Un prototype HTML mettant en œuvre tout ou partie des intentions créatives
 - Le rendu pourra être accompagné de vidéos/gifs détaillants certains principes d'interaction, animations UI
@@ -44,7 +48,7 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 
 
 ## Pour bien commencer
-1. Analyser l’arborescence et le site existant
+1. Analyser l’identité des signes existants (logotype + da site) ainsi que l’arborescence et le site
 2. Identifier les opportunités (Comment pourrions-nous)
 3. Se ressourcer avec des expériences équivalentes à Font Library
 4. Proposer des intentions graphiques et ergonomiques
@@ -55,14 +59,19 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 ### Méthodologie
 - UX / UI : Comprendre un contexte d'usage, intégrer des retours utilisateur
 - UX / UI : Connaître et appliquer les principales étapes de conception UI (parcours, architecture, fonctions, zoning, wireframes, etc.)
+- UI : Générer une identité graphique en utilisant les outils et étapes de conception (références, moodboard, recherches et explorations graphique (typo, couleur, signes, mise en page, test lisibilité, identité, style tiles)
 - Savoir s'appuyer sur différents niveaux de prototypage (modes de représentation / outils)
 ### Création
 - Savoir scénariser des parcours d'utilisation efficaces et singuliers
 - Savoir structurer une interface (grille, composants, etc.)
+- Savoir concevoir une identité créative et cohérente
+- Savoir mettre en page : organiser et hiérarchiser les informations
 - Savoir concevoir des interactions et micro-interactions (affordances, feedback, transitions, etc.)
 - S'approprier et mettre en oeuvre des codes graphiques, animés et interactifs d'une culture spécifique, celle de l'Open Source
 - Enrichir sa culture des interfaces web actuelles
 ### Technique
+- Maîtriser les choix formels (justesse formelles des signes produits)
+- Appliquer le code orthotypographique et les lois fondamentales de la mise en page
 - Maîtriser les outils de conception UI (Figma + prototypage)
 - Progresser en intégration et développement front-end
 - Partager son travail sur une plateforme de versioning
