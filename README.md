@@ -23,6 +23,31 @@
 | S4 | 18/10 Matin |   X  |    |   X   |    X    | Restitution de projet                                                                                                                                                              |
 |    | 18/10 Aprem |      |  X |   X   |         | Communication de projet, valorisation                                                                                                                                              |
 
+
+
+## Demande
+Vous élaborerez un scénario complet :
+**page d'accueil › page catalogue › 1 page de font › download**
+
+Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, et démontrera fidèlement votre intention graphique et ergonomique.
+
+
+
+## Livrables
+- Un prototype Figma
+- Un prototype HTML mettant en œuvre tout ou partie des intentions créatives
+- Le rendu pourra être accompagné de vidéos/gifs détaillants certains principes d'interaction, animations UI
+
+
+
+## Pour bien commencer
+1. Analyser l’arborescence et le site existant
+2. Identifier les opportunités (Comment pourrions-nous)
+3. Se ressourcer avec des expériences équivalentes à Font Library
+4. Proposer des intentions graphiques et ergonomiques
+
+
+
 ## Objectifs pédagogiques
 ### Méthodologie
 - UX / UI : Comprendre un contexte d'usage, intégrer des retours utilisateur
