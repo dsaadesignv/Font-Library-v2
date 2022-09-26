@@ -38,7 +38,7 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 |    | 13/10 Jeudi Aprem |      |    |   ×   |         | Production et suivi des étudiants                                                                                                                                                  |
 |    | 14/10 Vendredi Matin |   ×  |  × |       |         | Production et suivi des étudiants                                                                                                                                                  |
 |    | 14/10 Vendredi Aprem |   ×  |  × |       |         | Production et suivi des étudiants                                                                                                                                                  |
-| S4 | 18/10 Mardi Matin |   ×  |    |   ×   |    ×    | Restitution de projet                                                                                                                                                              |
+| S4 | 18/10 Mardi Matin |   ×  |  ×  |   ×   |    ×    | Restitution de projet                                                                                                                                                              |
 |    | 18/10 Mardi Aprem |      |  × |   ×   |         | Communication de projet, valorisation                                                                                                                                              |
 
 
