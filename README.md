@@ -10,6 +10,17 @@
 - https://twitter.com/fontlibrary/with_replies 
 - https://www.facebook.com/fontlibrary 
 
+## Demande
+Vous élaborerez un scénario complet :
+**page d'accueil › page catalogue › 1 page de font › download**
+
+Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, et démontrera fidèlement votre intention graphique et ergonomique.
+
+## Livrables
+- Un prototype Figma
+- Un prototype HTML mettant en œuvre tout ou partie des intentions créatives
+- Le rendu pourra être accompagné de vidéos/gifs détaillants certains principes d'interaction, animations UI
+
 ## Planning
 |    |             | Mahé | JB | Kévin | Clément |                                                                                                                                                                                    |
 |----|-------------|:----:|:--:|:-----:|:-------:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -29,22 +40,6 @@
 |    | 14/10 Vendredi Aprem |   ×  |  × |       |         | Production et suivi des étudiants                                                                                                                                                  |
 | S4 | 18/10 Mardi Matin |   ×  |    |   ×   |    ×    | Restitution de projet                                                                                                                                                              |
 |    | 18/10 Mardi Aprem |      |  × |   ×   |         | Communication de projet, valorisation                                                                                                                                              |
-
-
-
-## Demande
-Vous élaborerez un scénario complet :
-**page d'accueil › page catalogue › 1 page de font › download**
-
-Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, et démontrera fidèlement votre intention graphique et ergonomique.
-
-
-
-## Livrables
-- Un prototype Figma
-- Un prototype HTML mettant en œuvre tout ou partie des intentions créatives
-- Le rendu pourra être accompagné de vidéos/gifs détaillants certains principes d'interaction, animations UI
-
 
 
 ## Pour bien commencer
