@@ -64,3 +64,21 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - Progresser en intégration et développement front-end
 - Partager son travail sur une plateforme de versioning
 - Enrichir sa culture des formats typographiques du web, et des différentes licences
+
+## Références
+- VTF the Velvetyne Type Foundry http://www.velvetyne.fr/
+- OSP-foundry http://osp.kitchen/foundry/ (voir les logs notamment http://osp.kitchen/foundry/erbarre/)
+- Use & Modify https://usemodify.com/
+- List of libre typeface foundries, and libre typeface lists https://gitlab.com/raphaelbastide/libre-foundries
+- Fonts open source de l'ANRT https://anrt-nancy.fr/anrt-22/fr/fonts
+- https://typotheque.luuse.fun/ et http://hershey-noailles.luuse.io/www/
+- https://typotheque.genderfluid.space/
+- http://typotheque.le75.be/
+- https://uncut.wtf/
+- https://love-letters.be/foundry.html
+- https://www.suvatypefoundry.ee/
+- https://www.design-research.be/by-womxn/
+- http://collletttivo.it/
+- http://e162.eu/fonderie
+- http://nofoundry.xyz/Typetester
+- https://slavakirilenko.com/
