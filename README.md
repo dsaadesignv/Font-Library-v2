@@ -9,6 +9,7 @@
 - https://github.com/fontlibrary/guidebook 
 - https://twitter.com/fontlibrary/with_replies 
 - https://www.facebook.com/fontlibrary 
+- https://fabricatorz.org/
 
 ## Demande
 Vous élaborerez un scénario complet :
