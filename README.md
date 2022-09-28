@@ -94,3 +94,4 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - http://e162.eu/fonderie
 - http://nofoundry.xyz/Typetester
 - https://slavakirilenko.com/
+- Une autre liste sur l'excellent https://ateliers.esad-pyrenees.fr/web/pages/references/typo/
