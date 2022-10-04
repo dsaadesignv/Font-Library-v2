@@ -33,7 +33,7 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 |    | 27/09 Mardi Aprem |      |    |   ×   |         | Apport UX / tool design / archi de l’info (parcours, wireframes/flows)                                                                                                             |
 |    | 30/09 Vendredi Matin |   ×  |    |       |         | Apport culture typo / DA / codes graphiques                                                                                                                                        |
 |    | 30/09 Vendredi Aprem |   ×  |    |   ×   |         | Idéation et suivi des étudiants                                                                                                                                                    |
-| S2 | 04/10 Mardi Matin |      |  × |       |         | Idéation et suivi des étudiants Apport conception UI / micro interaction ?                                                                                                         |
+| S2 | 04/10 Mardi Matin |      |  × |       |         | Idéation et suivi des étudiants Apport conception UI                                                                                                         |
 |    | 04/10 Mardi Aprem |      |  × |       |         |                                                                                                                                                                                    |
 |    | 06/10 Jeudi Matin |   ×  |    |   ×   |         | Idéation et suivi des étudiants                                                                                                                                                    |
 |    | 06/10 Jeudi Aprem |   ×  |    |   ×   |         | Restitution orale intermédiaire des intentions Requis : un démonstrateur qui fait état des intentions graphique et ergonomique (Figma ou autre) Rendu intermédiaire des prototypes |
@@ -95,3 +95,12 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - http://nofoundry.xyz/Typetester
 - https://slavakirilenko.com/
 - Une autre liste sur l'excellent https://ateliers.esad-pyrenees.fr/web/pages/references/typo/
+
+## Web design
+https://www.hoverstat.es/
+https://minimal.gallery/
+https://hallointer.net/
+https://www.siteinspire.com/
+https://www.admiretheweb.com/
+https://brutalistwebsites.com/
+https://www.awwwards.com/
