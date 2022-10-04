@@ -97,10 +97,10 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - Une autre liste sur l'excellent https://ateliers.esad-pyrenees.fr/web/pages/references/typo/
 
 ## Web design
-https://www.hoverstat.es/
-https://minimal.gallery/
-https://hallointer.net/
-https://www.siteinspire.com/
-https://www.admiretheweb.com/
-https://brutalistwebsites.com/
-https://www.awwwards.com/
+- https://www.hoverstat.es/
+- https://minimal.gallery/
+- https://hallointer.net/
+- https://www.siteinspire.com/
+- https://www.admiretheweb.com/
+- https://brutalistwebsites.com/
+- https://www.awwwards.com/
