@@ -104,3 +104,52 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - https://www.admiretheweb.com/
 - https://brutalistwebsites.com/
 - https://www.awwwards.com/
+
+## Objectifs techniques
+### Cyprien
+
+- [ ] Drag'n'drop un tag dans une zone	
+- [ ] Détecter les tags déposés dans une zone pour filtrer des résultats	
+- [ ] Créer des nouveaux tags (input → tag draggable)	
+
+### Régis
+
+- [ ] Adaptation responsive de la grille en fonction du contenu	"- Survol recto/verso d'un glyphe
+- [ ] Changer la taille de la grille (slider)"	"- Tiroir pour afficher le détail d'un glyphe
+- [ ] Filtrer les catégories (show/hide)"	- Réordonner les glyphes par couleur (licences)
+
+### Daniel
+- [ ] Canvas infini des glyphes qui bouge
+- [ ] Transition animée si différentes rotations pour explorer le contenu
+- [ ] Champ de recherche : autocomplétion
+- [ ] Champ de recherche : saisie validée → filtre, tri
+- [ ] Tiroir contenu
+
+### Clotilde
+- [ ] ??
+
+### Elena
+- [ ] Pouvoir ajuster la taille de la typo
+- [ ] Pouvoir spécifier la couleur de la typo
+- [ ] Pouvoir spécifier la couleur d'arrière-plan derrière la typo
+- [ ] Pouvoir spécifier une image d'arrière-plan derrière la typo
+
+### Nina
+- [ ] Micro-interactions de la timeline : cliquer sur la mini-map pour scroller dans la page (ancre)
+- [ ] Micro-interactions de la timeline : effets de survol
+- [ ] Micro-interactions de la timeline : mettre en avant des traits selon un critère de recherche/filtre
+
+### Antoine
+- [ ] Canvas infini des glyphes
+- [ ] Recto/verso d'une fiche qui s'ouvre en ayant cliqué sur un glyphe
+- [ ] Drag'n'drop des fiches (sur les côtés pour pioche ou vers le bas pour collecte)
+- [ ] Ajout dans une pioche
+- [ ] Affichage de la pioche
+
+### Romina
+- [ ] Composition des blocs en CSS
+- [ ] Tailles de font différentes selon la taille des blocs
+- [ ] Variation des couleurs dans une même catégorie
+- [ ] Disposition aléatoire des blocs/de la grille à chaque rafraîchissement
+- [ ] Sons pour chaque typo
+- [ ] Filtre couleur lorsqu'une fond est téléchargée (micro-interaction)
