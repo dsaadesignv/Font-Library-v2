@@ -108,36 +108,37 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 ## Objectifs techniques
 ### Cyprien
 
-- [ ] Drag'n'drop un tag dans une zone	
-- [ ] Détecter les tags déposés dans une zone pour filtrer des résultats	
-- [ ] Créer des nouveaux tags (input → tag draggable)	
+- [ ] Structurer l'interface en 3 colonnes activables ou non (toggle)	
+- [ ] Redimensionner les colonnes (drag)
+- [ ] Adapter le contenu responsif dans chaque colonne redimensionnable
 
 ### Régis
 
-- [ ] Adaptation responsive de la grille en fonction du contenu	"- Survol recto/verso d'un glyphe
-- [ ] Changer la taille de la grille (slider)"	"- Tiroir pour afficher le détail d'un glyphe
+- [ ] Adaptation responsive de la grille en fonction du contenu
+- [ ] Survol recto/verso d'un glyphe
+- [ ] Changer la taille de la grille (slider)
+- [ ] Tiroir pour afficher le détail d'un glyphe
 - [ ] Filtrer les catégories (show/hide)"	- Réordonner les glyphes par couleur (licences)
 
 ### Daniel
 - [ ] Canvas infini des glyphes qui bouge
-- [ ] Transition animée si différentes rotations pour explorer le contenu
+- [ ] Transition-zoom pour afficher une fiche
 - [ ] Champ de recherche : autocomplétion
 - [ ] Champ de recherche : saisie validée → filtre, tri
-- [ ] Tiroir contenu
 
 ### Clotilde
 - [ ] ??
 
 ### Elena
-- [ ] Pouvoir ajuster la taille de la typo
-- [ ] Pouvoir spécifier la couleur de la typo
-- [ ] Pouvoir spécifier la couleur d'arrière-plan derrière la typo
-- [ ] Pouvoir spécifier une image d'arrière-plan derrière la typo
+- [ ] Afficher les stickers des éléments de contenu
+- [ ] Zone figée sur l'écran (panier) qui permet de déplacer des stickers sur un élément de contenu
+- [ ] Pouvoir ajouter un sticker sur un élément de contenu (drag'n'drop)
 
 ### Nina
 - [ ] Micro-interactions de la timeline : cliquer sur la mini-map pour scroller dans la page (ancre)
 - [ ] Micro-interactions de la timeline : effets de survol
 - [ ] Micro-interactions de la timeline : mettre en avant des traits selon un critère de recherche/filtre
+- [ ] Micro-interactions de la timeline : différentes typologies de filtres
 
 ### Antoine
 - [ ] Canvas infini des glyphes
