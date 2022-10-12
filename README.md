@@ -127,7 +127,11 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - [ ] Champ de recherche : saisie validée → filtre, tri
 
 ### Clotilde
-- [ ] ??
+- [ ] Structurer l'interface en 4 colonnes activables ou non (toggle)
+- [ ] Faire défiler le texte dans les inter-sections
+- [ ] Mini-map : cliquer sur la mini-map pour scroller dans la page (ancre)
+- [ ] Mini-map : survol des typographies
+- [ ] ???
 
 ### Elena
 - [ ] Afficher les stickers des éléments de contenu
