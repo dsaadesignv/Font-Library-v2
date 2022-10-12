@@ -4,10 +4,10 @@
 2. Placer le dossier `fonts/` dans le dossier de votre projet, à côté du dossier`css/`
 3. Télécharger le fichier `fonts.css`
 4. Placer le fichier `fonts.css` dans le dossier `css/` de votre projet
-5. Dans votre fichier `index.html`, ajouter la ligne HTML suivante au-dessus de votre balise `<link>` existante qui appelle votre propre fichier CSS :
+5. Dans votre fichier `index.html`, ajouter la ligne HTML suivante au-dessus de vos balises `<link>` existantes qui appellent votre propre fichier CSS et `normalize.css` :
 ```html
 <link rel="stylesheet" href="./css/fonts.css">
-<!-- Votre propre fichier CSS doit être appelé juste en dessous de cette ligne --> 
+<!-- Votre propre fichier CSS et votre normalize.css doivent être appelés juste en dessous de cette ligne --> 
 ```
 6. Dans votre CSS, vous pouvez maintenant utiliser les typos suivantes :
 
