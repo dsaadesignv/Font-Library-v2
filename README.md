@@ -109,8 +109,9 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 ### Cyprien
 
 - [ ] Structurer l'interface en 3 colonnes activables ou non (toggle)	
-- [ ] Redimensionner les colonnes (drag)
 - [ ] Adapter le contenu responsif dans chaque colonne redimensionnable
+- [ ] Saisir du texte pour tester les typographies
+- [ ] Changer les couleurs des colonnes
 
 ### Régis
 
@@ -131,7 +132,7 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - [ ] Faire défiler le texte dans les inter-sections
 - [ ] Mini-map : cliquer sur la mini-map pour scroller dans la page (ancre)
 - [ ] Mini-map : survol des typographies
-- [ ] ???
+- [ ] ????
 
 ### Elena
 - [ ] Afficher les stickers des éléments de contenu
