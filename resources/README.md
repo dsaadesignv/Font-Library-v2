@@ -13,14 +13,14 @@
 
 | Nom de la typo               | Pour l'utiliser en CSS                                  | Lien fontlib  |
 |------------------------------|---------------------------------------------------------|---------------|
-| Lemon                 | `font-family: 'lemonregular', inherit;`                 | https://fontlibrary.org/en/font/lemon |
-| Acari Sans              | `font-family: 'acari_sansblack', inherit;`              | https://fontlibrary.org/en/font/acari-sans |
-| Clickuper                | `font-family: 'clickuperbold', inherit;`                | https://fontlibrary.org/en/font/clickuper |
-| Cramaten              | `font-family: 'cramatenregular', inherit;`              | https://fontlibrary.org/en/font/cramaten |
-| Echotopia             | `font-family: 'echotopiaregular', inherit;`             | https://fontlibrary.org/en/font/echotopia |
-| Grotesque Bourgeoisie | `font-family: 'grotesque_bourgeoisieregular', inherit;` | https://fontlibrary.org/en/font/grotesque-bourgeoisie |
-| Khushanuma    | `font-family: 'khushanuma_regularregular', inherit;`    | https://fontlibrary.org/en/font/nafees-nastaleeq-v1-02-ttf |
-| L'internationale       | `font-family: 'linternationaleregular', inherit;`       | https://fontlibrary.org/en/font/l-internationale |
-| Misto                    | `font-family: 'mistobook', inherit;`                    | https://fontlibrary.org/en/font/misto |
-| Sans Guilt          | `font-family: 'sans_guilt_mbmedium', inherit;`          | https://fontlibrary.org/en/font/sans-guilt |
-| Uglytypist            | `font-family: 'uglytypistregular', inherit;`            | https://fontlibrary.org/en/font/uglytypist |
+| Lemon                 | `font-family: 'lemonregular';`                 | https://fontlibrary.org/en/font/lemon |
+| Acari Sans              | `font-family: 'acari_sansblack';`              | https://fontlibrary.org/en/font/acari-sans |
+| Clickuper                | `font-family: 'clickuperbold';`                | https://fontlibrary.org/en/font/clickuper |
+| Cramaten              | `font-family: 'cramatenregular';`              | https://fontlibrary.org/en/font/cramaten |
+| Echotopia             | `font-family: 'echotopiaregular';`             | https://fontlibrary.org/en/font/echotopia |
+| Grotesque Bourgeoisie | `font-family: 'grotesque_bourgeoisieregular';` | https://fontlibrary.org/en/font/grotesque-bourgeoisie |
+| Khushanuma    | `font-family: 'khushanuma_regularregular';`    | https://fontlibrary.org/en/font/nafees-nastaleeq-v1-02-ttf |
+| L'internationale       | `font-family: 'linternationaleregular';`       | https://fontlibrary.org/en/font/l-internationale |
+| Misto                    | `font-family: 'mistobook';`                    | https://fontlibrary.org/en/font/misto |
+| Sans Guilt          | `font-family: 'sans_guilt_mbmedium';`          | https://fontlibrary.org/en/font/sans-guilt |
+| Uglytypist            | `font-family: 'uglytypistregular';`            | https://fontlibrary.org/en/font/uglytypist |
