@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import url('https://fontlibrary.org//face/glacial-indifference');
+@import url('https://fontlibrary.org//face/fantasque-sans-mono');
+@import url('https://fontlibrary.org//face/avara');
+@import url('https://fontlibrary.org//face/circus');
+@import url('https://fontlibrary.org//face/averia');
+@import url('https://fontlibrary.org//face/unique');
+@import url('https://fontlibrary.org//face/process');
+@import url('https://fontlibrary.org//face/bagnard');
+@import url('https://fontlibrary.org//face/dejavu-sans-mono');
+@import url('https://fontlibrary.org//face/nanook');
+@import url('https://fontlibrary.org//face/jellee-typeface');
+@import url('https://fontlibrary.org//face/connection');
+@import url('https://fontlibrary.org//face/karmilla');
+@import url('https://fontlibrary.org//face/osp-din');
+@import url('https://fontlibrary.org//face/passageway');
+@import url('https://fontlibrary.org//face/trocchou');
+@import url('https://fontlibrary.org//face/grobe-deutschmeister');
+@import url('https://fontlibrary.org//face/bradley-gratis');
+@import url('https://fontlibrary.org//face/athanasius-d');
+@import url('https://fontlibrary.org//face/antonios-d');
+@import url('https://fontlibrary.org//face/open-sans');
+@import url('https://fontlibrary.org//face/asea-textfonts');
+@import url('https://fontlibrary.org//face/ouroboros');
+@import url('https://fontlibrary.org//face/free-grotesque-web-font');
+@import url('https://fontlibrary.org//face/5by7');
+@import url('https://fontlibrary.org//face/playfair-display');
+@import url('https://fontlibrary.org//face/pecita');
+@import url('https://fontlibrary.org//face/sloppy-joetsu');
+@import url('https://fontlibrary.org//face/narbut-classic');
+@import url('https://fontlibrary.org//face/kreative-square');
+@import url('https://fontlibrary.org//face/eiisabethische');
+
+/* Data font tiles */
+
+[data-font="inter"]{
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+[data-font="fantasque-sans-mono"]{
+    font-family: 'FantasqueSansMonoRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="glacial-indifference"]{
+    font-family: 'GlacialIndifferenceRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="avara"]{
+    font-family: 'AvaraBold';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="circus"]{
+    font-family: 'Libertinagek';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="averia"]{
+    font-family: 'AveriaRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="unique"]{
+    font-family: 'UniqueRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="process"]{
+    font-family: 'Processregistrationregistration';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="bagnard"]{
+    font-family: 'BagnardRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="deja-vu-sans-mono"]{
+    font-family: 'DejaVuSansMonoBoldOblique';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="nanook"]{
+    font-family: 'nanookRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="jelle"]{
+    font-family: 'JelleeBold';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+
+
+[data-font="connection"]{
+    font-family: 'ConnectionRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="karmilla"]{
+    font-family: 'KarmillaRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="osp-din"]{
+    font-family: 'OSPDINDIN';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="passageway"]{
+    font-family: 'PassagewayRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="trocchou"]{
+    font-family: 'TrocchouRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="grobe-deutschmeister"]{
+    font-family: 'GrobeDeutschmeisterRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="bradley-gratis"]{
+    font-family: 'BradleyGratisRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="athanasius-d"]{
+    font-family: 'AthanasiusDD';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="antonios-d"]{
+    font-family: 'AntoniosDD';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="montserrat"]{
+    font-family: 'MontserratRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="asea"]{
+    font-family: 'AseaRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="ouroboros"]{
+    font-family: 'OuroborosRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="gvipg"]{
+    font-family: 'GetVoIPGrotesqueRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="5by7"]{
+    font-family: '5by7Regular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="playfair"]{
+    font-family: 'PlayfairDisplayRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="pecita"]{
+    font-family: 'PecitaBook';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="narbut-classic"]{
+    font-family: 'NarbutClassicRegular';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="kreative-square"]{
+    font-family: 'KreativeSquareMedium';
+    font-weight: normal;
+    font-style: normal; 
+}
+
+[data-font="eIisabethische"]{
+    font-family: 'EIisabethischeBook';
+    font-weight: normal;
+    font-style: normal; 
+}
