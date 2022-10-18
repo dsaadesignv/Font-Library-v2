@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Library</title>
+
+    <link rel="icon" type="image/png" href="img/logo.svg">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<section class="drawer-container">
+    <div class="description-container">
+        <div class="description">Inter</div>
+        <div class="description">18 Styles,<br>56 contributors</div>
+        <div class="description license">License: SIL Open Font License</div>
+    </div>
+    <div class="editor-container">
+        <textarea data-font="inter" class="editor" cols="30" rows="10" spellcheck="false">“I often compare open source to science.” Linus Torvalds (edit me)</textarea>
+    </div>
+    <div class="properties-container">
+        <div class="properties-actions-container">
+            <button id="style-button" class="button regular">Regular<img src="img/chevron-up.svg" class="icon"></button>
+            <button id="version-button" class="button regular">Version 1.2<img src="img/chevron-up.svg" class="icon"></button>
+            <button id="download-button" class="button regular tilt">Download</button>
+            <button id="drawer-close-button" class="button circle"><img src="img/close.svg" class="icon"></button>
+        </div>
+        <div class="license-box">Any usage, free to modify but must be republished under the same license, free to modify but must be distributed with a license copy.</div>
+    </div>
+</section>
+
+<section class="tiles-container small"></section>
+
+<section class="top-container hidden">
+    <button id="toggle-button" class="button circle">Order</button>
+</section>
+
+<section class="bottom-container hidden">
+    <input id="sample-input" class="input shake" type="text" placeholder="Write your beautiful sample text here...">
+    <div class="actions-container">
+        <button id="categories-button" class="button regular">Categories<img src="img/chevron-up.svg" class="icon"></button>
+        <button id="languages-button" class="button regular">Language<img src="img/chevron-up.svg" class="icon"></button>
+        <button id="size-button" class="button regular">Size<input id="size-slider" class="slider" type="range" value="1" min="-25" max="50"></button>
+        <button id="about-button" class="button regular"><img src="img/logo.svg" class="logo"><img src="img/chevron-up.svg" class="icon"></button>
+    </div>
+</section>
+
+<section id="categories-wrapper" class="filter-container">
+    <button class="button regular" data-category="serif">Serif<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-category="sans-serif">Sans serif<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-category="display">Display<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-category="handwritting">Handwritting<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-category="monospace">Monospace<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-category="dingbat">Dingbat<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-category="blackletter">Blackletter<img src="img/close.svg" class="icon"></button>
+</section>
+
+<section id="languages-wrapper" class="filter-container">
+    <button class="button regular" data-language="arabic">Arabic<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-language="cyrillic">Cyrillic<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-language="european">European<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-language="hebrew">Hebrew<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-language="greek">Greek<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-language="thai">Thai<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-language="turkish">Turkish<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-language="vietnamiese">Vietnamiese<img src="img/close.svg" class="icon"></button>
+    <button class="button regular" data-language="western-european">Western European<img src="img/close.svg" class="icon"></button>
+</section>
+
+<section id="style-wrapper" class="settings-container">
+    <button class="button regular on" data-style="regular">Regular</button>
+    <button class="button regular" data-style="regular">Semi Bold</button>
+    <button class="button regular" data-style="regular">Bold</button>
+    <button class="button regular" data-style="regular">Italic</button>
+    <button class="button regular" data-style="regular">Semi Bold Italic</button>
+    <button class="button regular" data-style="regular">Bold Italic</button>
+</section>
+
+<section id="version-wrapper" class="settings-container">
+    <button class="button regular" data-style="regular">Version 1.0 (origin)</button>
+    <img src="img/arrow-right.svg" class="icon">
+    <button class="button regular" data-style="regular">Version 1.1</button>
+    <img src="img/arrow-right.svg" class="icon">
+    <button class="button regular on" data-style="regular">Version 1.2</button>
+</section>
+
+<section id="about-wrapper" class="about-container">
+    <div class="grid-container">
+        <div class="column-1">
+            <img src="img/logo.gif" class="logo" alt="">
+        </div>
+        <div class="column-2">
+            <div class="content">Font Library is a database dedicated to archiving freely licensed fonts and encouraging their collaborative open-sourced development.</div>
+        </div>
+        <div class="column-3">
+            <div class="content">
+                <div class="type-1">Any usage, can be modified and distributed freely</div>
+                <div class="type-2">Any usage, can be modified and distributed under conditions</div>
+                <div class="type-3">Usage, modification and distribution restricted</div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-container">
+        <div class="content">
+            <div>For questions, please email <a href="#">support@fontlibrary.org</a></div>
+            <div>Hosted by<br><a href="#">Fabricatorz Foundation</a></div>
+            <div><a href="#">Donate</a> to support development</div>
+            <div><a href="#">Credits</a></div>
+            <div><a href="#">Terms of service</a></div>
+        </div>
+        <button class="button regular">English<img src="img/chevron-up.svg" class="icon"></button>
+    </div>
+</section>
+
+<section class="onboarding-container">
+    <div class="content">
+        <div class="onboarding-license type-1">
+            <img src="img/onboarding-type-1.png" alt="">
+            <div class="description">Font for any usage, can be modified and distributed freely</div>
+        </div>
+        <div class="onboarding-license type-2">
+            <div class="description">Font for any usage, can be modified and distributed under conditions</div>
+            <img src="img/onboarding-type-2.png" alt="">
+        </div>
+        <div class="onboarding-license type-3">
+            <img src="img/onboarding-type-3.png" alt="">
+            <div class="description">Font for which usage, modification and distribution is restricted</div>
+        </div>
+        <button id="close-onboarding-button" class="button regular">Okay, I understand!</button>
+    </div>
+</section>
+
+</body>
+    <script src="js/data.js"></script>
+    <script src="js/main.js"></script>
+</html>
