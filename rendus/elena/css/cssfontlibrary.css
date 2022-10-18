@@ -1,0 +1,327 @@
+
+*{
+  font-family: 'Archivo', sans-serif;
+  
+}
+
+/*font-weight: 400;*/
+
+#site-header {
+    background: white;
+    padding: 15px 15px 15px calc(15px + 87px);
+    border: none;
+    display: flex;
+  
+  }
+
+  .site-header-section {
+
+    flex: 1;
+    display: flex;
+    align-items: center;
+    font-weight: 900;
+    }
+
+    
+
+    #site-menu{
+        text-align: center;
+        justify-content: center;
+        
+      }
+      
+      #site-menu ul {
+        list-style: none;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        gap: 120px;
+        align-items: center;
+      
+      }
+      #site-menu ul li a {
+        color: black;
+        text-decoration: none;
+        padding: 11px 8px;
+        border: solid 2px black;
+        border-radius: 10px;
+        font-size: 1.5rem;
+        white-space: nowrap;
+        
+        }
+
+        #site-menu ul li a:hover{
+          background-color: #59BEA4;
+        }
+        
+        
+        
+        #site-menu ul li.current a {
+        
+        color: var(--main-color);
+        font-weight: bold;
+        
+        
+        
+        }
+
+        #theme-couleur {
+          flex:none
+        }
+
+        .cards{
+
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(280px,1fr));
+          grid-gap: 30px;
+          border: none;
+        
+          
+
+
+        }
+
+        .card{
+          aspect-ratio: 1/1;
+          background-size: cover;
+          background-position: center center;
+          border-radius: 30px;
+          position: relative;
+          box-shadow: inset 0px 0px 1px 0px rgba(0, 0, 0, 5);
+          border:solid 4px black;
+        
+        }
+
+        .creation1{
+          background-image: url(./../image/creation1.jpg);
+          
+        
+        }
+
+        .creation2{
+          background-image: url(./../image/creation2.jpg);
+        
+        }
+
+        .creation3{
+          background-image: url(./../image/croix1.svg);
+          border: none;
+          width: 40px;
+          height: 40px;
+          padding: 40px 40px;
+          display: flex;
+          align-items: center;
+          background-position: center;
+          position: relative;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+          box-shadow: none;
+          
+        
+        }
+
+        .creation4{
+          background-image: url(./../image/creation4.jpg);
+        
+        }
+
+        .creation5{
+          background-image: url(./../image/creation5.jpg);
+        
+        }
+
+        .creation6{
+          background-image: url(./../image/creation6.jpg);
+        
+        }
+
+        .creation7{
+          background-image: url(./../image/creation7.jpg);
+        
+        }
+
+        .creation8{
+          background-image: url(./../image/creation8.jpg);
+        
+        }
+
+        .creation9{
+          background-image: url(./../image/creation9.jpg);
+        
+        }
+
+        .creation10{
+          background-image: url(./../image/croix4.svg);
+          border: none;
+          width: 40px;
+          height: 40px;
+          padding: 40px 40px;
+          display: flex;
+          align-items: center;
+          background-position: center;
+          position: relative;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+          box-shadow: none;
+        
+        }
+
+        .creation11{
+          background-image: url(./../image/creation11.jpg);
+        
+        }
+
+        .creation12{
+          background-image: url(./../image/croix3.svg);
+          border: none;
+          width: 40px;
+          height: 40px;
+          padding: 40px 40px;
+          display: flex;
+          align-items: center;
+          background-position: center;
+          position: relative;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+          box-shadow: none;
+        
+        }
+
+        .creation13{
+          background-image: url(./../image/creation13.jpg);
+        
+        }
+
+        .creation14{
+          background-image: url(./../image/creation14.jpg);
+        
+        }
+        .creation15{
+          background-image: url(./../image/creation15.jpg);
+        
+        }
+
+        .creation16{
+          background-image: url(./../image/creation16.jpg);
+        
+        }
+        .creation17{
+          background-image: url(./../image/creation17.jpg);
+        
+        }
+        .creation18{
+          background-image: url(./../image/creation18.jpg);
+        
+        }
+        .creation19{
+          background-image: url(./../image/croix2.svg);
+          border: none;
+          width: 40px;
+          height: 40px;
+          padding: 40px 40px;
+          display: flex;
+          align-items: center;
+          background-position: center;
+          position: relative;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%,-50%);
+          box-shadow: none;
+        
+        }
+
+
+
+
+        #basket-wrapper{
+          position: fixed;
+          bottom: 10px;
+          width: 100%;
+         
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          z-index: 200;
+        
+        }
+        
+        #basket {
+         
+          background-color: white;
+          /*padding: 20px ;*/
+          border-radius: 100px;
+          Border:solid 4px black
+          
+        
+        }
+
+        #has-items{
+          display: flex;
+          position: center;
+          padding: 20px 40px;
+          align-items: center;
+
+        }
+         
+        
+        
+        
+        
+        #basket .item{
+          width: 100px;
+          height: 80px;
+          margin:0 12px;
+          cursor: pointer;
+          background-size: cover;
+          border:none;
+          text-align: center;
+          
+        
+        }
+          
+          
+          
+        #basket .item img{
+          background: none;
+          max-width: 100%;
+          border: none ;
+          position: center;
+          display: flex;
+          align-items: center;
+          
+        }
+          
+        
+        
+          
+        #basket .item div {
+        position: center;
+        border: none;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        
+        
+       
+        
+        
+        }
+
+
+        /*.creation3{
+          opacity: 0%;
+          background-image:url(./../image/croix1.svg) ;
+        }
+        
+       
+        /*transform:scale(0) ;
+        transition: all .2s;
+        cursor: pointer; 
+
+
+        
+
+        
