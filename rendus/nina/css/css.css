@@ -1,0 +1,177 @@
+:root {
+--main-color:#4D2E19;
+}
+
+*{
+  scroll-behavior: smooth;
+}
+
+#timeline-wrapper{
+  position: fixed;
+  width: 70px;
+  right: 30px;
+  top: 40px;
+  bottom: 40px;
+  background:white;
+}
+
+.open{
+  right:175px !important;
+}
+
+#timeline{
+background: white;
+position: fixed;
+width: 30px;
+right: 50px;
+top: 40px;
+bottom: 40px;
+}
+
+.fontline{
+  border-top: 1px solid var(--main-color);
+  width: 30px;
+  height: 7px;
+  position: relative;
+}
+
+#fonts .fontline:hover{
+border-width: 2.5px;
+  width: 40px;
+  transform: scale(1);
+  transform: translateX(-10px);
+}
+
+.fontpreview{
+  font-size: 60px;
+  display: none;
+  position: absolute;
+  right: 50px;
+  top:-35px;
+}
+
+.lemon-sample{
+  font-family: 'lemonregular';
+}
+
+.acari-sans-sample{
+  font-family: 'acari_sansblack'
+
+}
+
+.clickuper-sample{
+  font-family: 'clickuperbold';
+}
+
+.cramaten-sample{
+  font-family: 'cramatenregular';
+}
+
+.echotopia-sample{
+  font-family: 'echotopiaregular';
+}
+
+.grotesque-bourgeoisie-sample{
+  font-family: 'grotesque_bourgeoisieregular';
+}
+
+.khushanuma-sample{
+  font-family: 'khushanuma_regularregular';
+}
+
+.internationale-sample{
+  font-family: 'linternationaleregular';
+}
+
+.misto-sample{
+  font-family: 'mistobook';
+}
+
+.sans-guilt-sample{
+  font-family: 'sans_guilt_mbmedium';
+}
+
+.uglytypist-sample{
+  font-family: 'uglytypistregular';
+}
+
+#fonts .fontline:hover .fontpreview{
+display: block;}
+
+ul{
+  padding-left: 10px;
+}
+
+ul li{
+  white-space: nowrap;
+}
+/*
+#fonts .fontline:hover{
+  height: 2px;
+  width: 50px;
+  transform: scale(3);
+  transform: translateX(-20px);
+}
+*/
+.chevron{
+  position: fixed;
+  right: 29px;
+  top: 560px;
+  transform: rotate(90deg);
+  font-size: 1rem;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.plus{
+  position: fixed;
+  right: 29px;
+  top: 35px;
+  font-size: 1rem;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.name-filter{
+  position: fixed;
+  right: -37px;
+  top: 626px;
+  transform: rotate(90deg);
+  font-size: 1rem;
+}
+
+.text-background{
+  margin-top: 200px;
+  padding-right: 140px;
+  padding-left: 100px;
+  font-size: 2rem;
+  display: inline-block;
+}
+
+.filters{
+  position: absolute;
+  left:45px;
+  top: -5px;
+}
+
+.filters h3{
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.filters ul{
+  list-style-type: none;
+}
+
+.invisible{
+  display:none;
+}
+
+.
+/*
+.left-pannel{
+  border: 2px solid blue;
+  background-color: blue;
+  height: 100vw;
+  margin-right: 140px;
+}
