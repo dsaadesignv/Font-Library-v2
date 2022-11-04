@@ -145,8 +145,8 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - [ ] Micro-interactions de la timeline : différentes typologies de filtres
 
 ### Antoine
-- [ ] Canvas infini des glyphes
-- [ ] Recto/verso d'une fiche qui s'ouvre en ayant cliqué sur un glyphe
+- [x] Canvas infini des glyphes
+- [x] Recto/verso d'une fiche qui s'ouvre en ayant cliqué sur un glyphe
 - [ ] Drag'n'drop des fiches (sur les côtés pour pioche ou vers le bas pour collecte)
 - [ ] Ajout dans une pioche
 - [ ] Affichage de la pioche
