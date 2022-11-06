@@ -6,9 +6,9 @@
 
 ## Liens
 - https://fontlibrary.org/
-- https://github.com/fontlibrary/guidebook 
-- https://twitter.com/fontlibrary/with_replies 
-- https://www.facebook.com/fontlibrary 
+- https://github.com/fontlibrary/guidebook
+- https://twitter.com/fontlibrary/with_replies
+- https://www.facebook.com/fontlibrary
 - https://fabricatorz.org/
 
 ## Demande
@@ -108,10 +108,10 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 ## Objectifs techniques
 ### Cyprien
 
-- [ ] Structurer l'interface en 3 colonnes activables ou non (toggle)	
-- [ ] Adapter le contenu responsif dans chaque colonne redimensionnable
-- [ ] Saisir du texte pour tester les typographies
-- [ ] Changer les couleurs des colonnes
+- [ ] Structurer l'interface en 3 colonnes activables ou non (toggle)
+- [x] Adapter le contenu responsif dans chaque colonne redimensionnable
+- [x] Saisir du texte pour tester les typographies
+- [x] Changer les couleurs des colonnes
 
 ### Régis
 
@@ -128,10 +128,10 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - [ ] Champ de recherche : saisie validée → filtre, tri
 
 ### Clotilde
-- [ ] Structurer l'interface en 4 colonnes activables ou non (toggle)
-- [ ] Faire défiler le texte dans les inter-sections
-- [ ] Mini-map : cliquer sur la mini-map pour scroller dans la page (ancre)
-- [ ] Mini-map : survol des typographies
+- [x] Structurer l'interface en 4 colonnes activables ou non (toggle)
+- [x] Faire défiler le texte dans les inter-sections
+- [x] Mini-map : cliquer sur la mini-map pour scroller dans la page (ancre)
+- [x] Mini-map : survol des typographies
 
 ### Elena
 - [ ] Afficher les stickers des éléments de contenu
