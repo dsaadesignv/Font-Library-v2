@@ -115,15 +115,15 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 
 ### Régis
 
-- [ ] Adaptation responsive de la grille en fonction du contenu
+- [x] Adaptation responsive de la grille en fonction du contenu
 - [ ] Survol recto/verso d'un glyphe
-- [ ] Changer la taille de la grille (slider)
-- [ ] Tiroir pour afficher le détail d'un glyphe
-- [ ] Filtrer les catégories (show/hide)"	- Réordonner les glyphes par couleur (licences)
+- [x] Changer la taille de la grille (slider)
+- [x] Tiroir pour afficher le détail d'un glyphe
+- [x] Filtrer les catégories (show/hide)"	- Réordonner les glyphes par couleur (licences)
 
 ### Daniel
-- [ ] Canvas infini des glyphes qui bouge
-- [ ] Transition-zoom pour afficher une fiche
+- [x] Canvas infini des glyphes qui bouge
+- [x] Transition-zoom pour afficher une fiche
 - [ ] Champ de recherche : autocomplétion
 - [ ] Champ de recherche : saisie validée → filtre, tri
 
@@ -134,15 +134,15 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - [x] Mini-map : survol des typographies
 
 ### Elena
-- [ ] Afficher les stickers des éléments de contenu
-- [ ] Zone figée sur l'écran (panier) qui permet de déplacer des stickers sur un élément de contenu
-- [ ] Pouvoir ajouter un sticker sur un élément de contenu (drag'n'drop)
+- [x] Afficher les stickers des éléments de contenu
+- [x] Zone figée sur l'écran (panier) qui permet de déplacer des stickers sur un élément de contenu
+- [x] Pouvoir ajouter un sticker sur un élément de contenu (drag'n'drop)
 
 ### Nina
 - [ ] Micro-interactions de la timeline : cliquer sur la mini-map pour scroller dans la page (ancre)
-- [ ] Micro-interactions de la timeline : effets de survol
+- [x] Micro-interactions de la timeline : effets de survol
 - [ ] Micro-interactions de la timeline : mettre en avant des traits selon un critère de recherche/filtre
-- [ ] Micro-interactions de la timeline : différentes typologies de filtres
+- [x] Micro-interactions de la timeline : différentes typologies de filtres
 
 ### Antoine
 - [x] Canvas infini des glyphes
@@ -152,9 +152,9 @@ Ce scénario sera incarné dans une suite d’écrans et d’états d’écran, 
 - [ ] Affichage de la pioche
 
 ### Romina
-- [ ] Composition des blocs en CSS
+- [x] Composition des blocs en CSS
 - [ ] Tailles de font différentes selon la taille des blocs
 - [ ] Variation des couleurs dans une même catégorie
 - [ ] Disposition aléatoire des blocs/de la grille à chaque rafraîchissement
-- [ ] Sons pour chaque typo
-- [ ] Filtre couleur lorsqu'une fond est téléchargée (micro-interaction)
+- [x] Sons pour chaque typo
+- [ ] Filtre couleur lorsqu'une fonte est téléchargée (micro-interaction)
